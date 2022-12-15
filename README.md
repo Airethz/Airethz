@@ -1,4 +1,7 @@
-### Hi there 👋
+### Study
+* Blazor
+* MAUI
+* MAUI Blazor
 
 <!--
 **Airethz/Airethz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
